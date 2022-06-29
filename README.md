@@ -6,12 +6,23 @@
 added a hello microverse header
 the heading color is aqua
 
+
+
 ## Built With
 
 - Major languages
 - html & css
+- vs code
 
+##Getting started 
+prerequisites
+-setup
+-install
+-usage
+-deployament
 
+##To run
+- to run this web you should have a webbrowser like chrome, safari, firefox...
 
 
 
